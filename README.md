@@ -21,7 +21,13 @@ La Segunda Asignacion, consiste en simular el efecto de color de los CD's o DVD'
 La Tercera Asignacion, consiste en programar la ecuacion de la onda para 2 olas circulares
 
 
-Todos los Proyectos tienen una serie de parametros que se pueden manipular mediante la interfaz grafica de RenderMonkey
+Todas las Asignaciones tienen una serie de parametros que se pueden manipular mediante la interfaz grafica de RenderMonkey
+
+Las Asignaciones 2 y 3, dan errores al abrirlos hay que seleccionar los objetos y mascarcas dentro de las carpetas
+
+---------------------
+
+Si quieres ver los efectos dentro de cada Carpeta hay un JPG con el efecto implementado
 
 Para mas Informacion, revisar los PDF dentro de cada Asignacion
 
