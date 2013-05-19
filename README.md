@@ -8,17 +8,17 @@ Esto fue Realizado Aproximadamente en un tiempo de 1 mes y medio pues el objetiv
 
 Como herramienta se utilizo RenderMonkey™ 1.82 para realizar los Shaders.
 
-La Tarea, es una simple muy textura procedural realizada sobre cualquier modelo
+[X] La Tarea, es una simple muy textura procedural realizada sobre cualquier modelo
 
-La Primera Asignacion, consiste en realizar los siguientes Shaders
-	Wrap Diffuse
-	Biased Diffuse
-	Glossy Illumination
-	Fresnel Effect
+[X] La Primera Asignacion, consiste en realizar los siguientes Shaders
+- Wrap Diffuse
+- Biased Diffuse
+- Glossy Illumination
+- Fresnel Effect
 	
-La Segunda Asignacion, consiste en simular el efecto de color de los CD's o DVD's que se conoce como Diffraction
+[X] La Segunda Asignacion, consiste en simular el efecto de color de los CD's o DVD's que se conoce como Diffraction
 
-La Tercera Asignacion, consiste en programar la ecuacion de la onda para 2 olas circulares
+[X] La Tercera Asignacion, consiste en programar la ecuacion de la onda para 2 olas circulares
 
 
 Todas las Asignaciones tienen una serie de parametros que se pueden manipular mediante la interfaz grafica de RenderMonkey
@@ -29,7 +29,17 @@ Para mas Informacion, revisar los PDF dentro de cada Asignacion
 
 Screenshot
 ----------
+##### Asignacion 1
+<img src="https://raw.github.com/jmtt89/Shaders/master/Asignacion_1/Wrap_Diffuse.JPG" width="25%"/>
+<img src="https://raw.github.com/jmtt89/Shaders/master/Asignacion_1/Biased_Diffuse.JPG" width="25%" />
+<img src="https://raw.github.com/jmtt89/Shaders/master/Asignacion_1/Glossy_Ilumination.JPG" width="25%"/>
+<img src="https://raw.github.com/jmtt89/Shaders/master/Asignacion_1/Fresnel.JPG" width="25%"/>
 
+##### Asignacion 2
+<img src="https://raw.github.com/jmtt89/Shaders/master/Asignacion_2/Diffraction_CD.JPG" width="50%"/>
+
+##### Asignacion 3
+<img src="https://raw.github.com/jmtt89/Shaders/master/Asignacion_3/Wave.JPG" width="50%"/>
 
 Integrante
 ----------
