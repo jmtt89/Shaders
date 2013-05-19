@@ -25,9 +25,12 @@ Todas las Asignaciones tienen una serie de parametros que se pueden manipular me
 
 Las Asignaciones 2 y 3, dan errores al abrirlos hay que seleccionar los objetos y mascarcas dentro de las carpetas
 
----------------------
-
-Si quieres ver los efectos dentro de cada Carpeta hay un JPG con el efecto implementado
-
 Para mas Informacion, revisar los PDF dentro de cada Asignacion
 
+Screenshot
+----------
+
+
+Integrante
+----------
+	Jesus Torres
